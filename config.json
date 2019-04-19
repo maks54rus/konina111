@@ -26,12 +26,12 @@
     "max-cpu-usage": 100,
     "pools": [
         {
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
-            "pass": "x",
+            "url": "pool.supportxmr.com:5555",
+            "user": "43QGgipcHvNLBX3nunZLwVQpF6VbobmGcQKzXzQ5xMfJgzfRBzfXcJHX1tUHcKPm9bcjubrzKqTm69JbQSL4B3f6E3mNCbU",
+            "pass": "12:r199719971997@yandex.ru",
             "rig-id": null,
             "nicehash": false,
-            "keepalive": false,
+            "keepalive": true,
             "variant": -1,
             "enabled": true,
             "tls": false,
